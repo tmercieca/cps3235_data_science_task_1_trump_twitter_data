@@ -11,4 +11,4 @@ Data for the first task of the CPS3235 assignment which deals with analyzing and
 4801 accounts following of @realDonaldtrump.
 
 ## Mentions (/mentions/)
-3423 tweets mentioning realDonaldTrump between Thu Jan 04 23:05:45 +0000 2018 and Sun Jan 07 12:45:13 +0000 2018.
+3423 tweets mentioning realDonaldTrump between Sun Jan 07 12:45:13 +0000 2018 and Thu Jan 04 23:05:45 +0000 2018.
