@@ -1,4 +1,4 @@
-# CPS323 Data Science Task 1: Trump's Twitter Data
+# CPS323 Data Science Task 1: @realDonaldTrump Twitter Data
 Data for the first task of the CPS3235 assignment which deals with analyzing and pulling data from Twitter related to @realDonaldTrump.
 
 ## Tweets (/user_timeline/)
