@@ -1,5 +1,5 @@
 # CPS323 Data Science Task 1: @realDonaldTrump Twitter Data
-Data for the first task of the CPS3235 assignment which deals with analyzing and pulling data from Twitter related to @realDonaldTrump.
+Data  in JSON format for the first task of the CPS3235 assignment which deals with analyzing and pulling data from Twitter related to @realDonaldTrump.
 
 ## Tweets (/user_timeline/)
 3242 tweets between Sat Jan 06 12:30:51 +0000 2018 and Tue Oct 11 21:35:41 +0000 2016.
