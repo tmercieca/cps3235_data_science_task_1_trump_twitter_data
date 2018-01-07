@@ -8,7 +8,7 @@ Data  in JSON format for the first task of the CPS3235 assignment which deals wi
 45 accounts being followed by @realDonaldTrump.
 
 ## Followers (/followers/)
-4801 accounts following of @realDonaldtrump.
+4801 accounts following @realDonaldtrump.
 
 ## Mentions (/mentions/)
 3423 tweets mentioning realDonaldTrump between Sun Jan 07 12:45:13 +0000 2018 and Thu Jan 04 23:05:45 +0000 2018.
